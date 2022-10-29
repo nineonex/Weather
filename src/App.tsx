@@ -1,7 +1,12 @@
+import { IconButton } from "@mui/material";
 export function App() {
   return (
     <>
-      <div>Hello hell</div>
+      <nav>
+    <IconButton
+          color="inherit"
+          aria-label="open drawer"></IconButton>
+      </nav>
     </>
   );
 }
