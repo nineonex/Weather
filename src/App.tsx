@@ -1,7 +1,7 @@
 export function App() {
   return (
     <>
-      <div>Hello word</div>
+      <div>Hello hell</div>
     </>
   );
 }
