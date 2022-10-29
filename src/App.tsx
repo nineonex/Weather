@@ -1,3 +1,7 @@
 export function App() {
-  return <>Teste</>;
+  return (
+    <>
+      <div>Hello word</div>
+    </>
+  );
 }
